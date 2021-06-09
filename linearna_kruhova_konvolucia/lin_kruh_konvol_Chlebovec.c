@@ -12,12 +12,6 @@ BIKS - Bezpečnosť informačných a komunikačných systémov
 13. Dec. 2020
 *******************************************************************************/
 
-//#include <stdio.h>
-//int a[] = {0, 1, 1, 2, 1, 1, 2, 3};
-//int b[] = {1, 2, 2, 3, 3, 2, 1, 2};
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> 
