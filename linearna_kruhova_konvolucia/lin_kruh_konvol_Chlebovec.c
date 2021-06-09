@@ -16,7 +16,7 @@ BIKS - Bezpečnosť informačných a komunikačných systémov
 #include <stdlib.h>
 #include <time.h> 
 
-//#define SUCET //DIREKTIVA
+//#define SUCET //DIREKTIVA pre DEBUG
 
 #define MIN(X, Y) (((X) < (Y)) ? (X) : (Y))
 #define MAX(X, Y) (((X) < (Y)) ? (Y) : (X))
