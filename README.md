@@ -1,1 +1,2 @@
-# TUKE-C-scripty
+# Scripty v jazyku C
+* TUKE implementácie
