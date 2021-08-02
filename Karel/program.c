@@ -1,5 +1,6 @@
 //Moje prvé zadanie v C
 //Robot Karel - odcitanie beeprov
+//použitá rekurzia
 
 #include <karel.h>             // nalinkovanie prislusnej kniznice, ktorej definicie budeme v programe vyuzivat.
 #define SPEED 100              // definicia rychlosti pohybu
