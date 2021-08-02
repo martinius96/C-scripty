@@ -1,3 +1,3 @@
 # Scripty v jazyku C
-* TUKE implementácie
+* Implementácie školských zadaní v jazyku C
 * konzolové aplikácie
