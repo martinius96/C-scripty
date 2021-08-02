@@ -1,4 +1,4 @@
-//Moje prvé zadanie v C
+//Moje prvé zadanie v C :)
 //Robot Karel - odcitanie beeprov
 //použitá rekurzia
 
