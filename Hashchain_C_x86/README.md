@@ -1,7 +1,7 @@
 # Hashchain for Windows x86 - 32-bit version
 * Original C code from: https://github.com/brenns10/hashchain
 
-| Libraries | Original location (change for your purposes) |
+| Libraries | Original location at VM (change for your purposes) |
 | ------------- | ------------- |
 | OpenSSL v1+ | C:\BATCHES\include\openssl (includes <openssl/lib.h> |
 | lcrypto dll  | C:\CodeBlocks\MinGW\lib (linked by compiler directly)|
