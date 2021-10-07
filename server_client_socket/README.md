@@ -3,7 +3,7 @@
 ./klient localhost 8000   .......... pre klienta
 
 
-napísa správu 
+napÃ­saÅ¥ sprÃ¡vu 
 
 _________________________________________
 
@@ -24,7 +24,7 @@ screen 3000 >>rec.txt & ..... >>priradzuje spravu do rec.txt
 _________________________________________
 
 ps .... prehlad serveru 
-jobs .... èi server pracuje a beží 
+jobs .... Ã¨i server pracuje a beÅ¾Ã­ 
 _______________________________________
 
 //vytvorenie klienta
