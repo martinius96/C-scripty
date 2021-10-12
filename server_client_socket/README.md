@@ -29,7 +29,7 @@ _______________________________________
 
 //vytvorenie klienta
 ./klient localhost 3000
-message: skap
+message: Hello world
 _______________________________________
 
 cat rec.txt ......... vypise aka sprava je v .txt subore
