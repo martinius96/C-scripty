@@ -17,3 +17,5 @@
 * poslať obsah prvého riadku textového súboru. Podobne na server po
 * presmerovaní výstupu z stdout do súboru sa obsah zapíše na strane
 * servera.
+#
+* Realizované podľa školského materiálu OS_Sofia.pdf
